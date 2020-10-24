@@ -19,8 +19,8 @@ async def ping(ctx):
     
     
 @bot.command()
-async def tu-(ctx):
-    await ctx.send('かー')
+async def iiyo(ctx):
+    await ctx.send('koiyo')
 
 
 bot.run(token)
